@@ -1,2 +1,2 @@
-# MokyklaGIT
+# Sūreliukai
 Mokykliniai darbai
